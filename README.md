@@ -1,6 +1,6 @@
 # Dead Man's Switch in Python 3 to Encrypt & Delete Files Whenever A User Doesn't Check In
 
-In cybersecurity, understanding a dead man's switch is a fairly simple concept. If one don't perform a specific task before a set amount of time, it'll perform a specific action you set. They can be handy not just for hackers but for everyone who wants to protect themselves, someone else, or something tangible or intangible from harm. While there are more nefarious uses for a dead man's switch, white hats can put one to good use.
+In cybersecurity, understanding a dead man's switch is a fairly simple concept. If one doesn't perform a specific task before a set amount of time, it'll perform a specific action you set. They can be handy not just for hackers but for everyone who wants to protect themselves, someone else, or something tangible or intangible from harm. While there are more nefarious uses for a dead man's switch, white hats can put one to good use.
 
 These switches have appeared in pop culture in many different forms, and examples can be seen in films such as "Point Break" "Speed," and "Crimson Tide." For a more recent example, in the film "Tenet," Sator (the antagonist) had implemented a dead man's switch to go off whenever his heart stopped, which would activate the algorithm that would end the entire world.
 
